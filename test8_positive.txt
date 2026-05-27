@@ -1,0 +1,16 @@
+Gulfstream G650
+Б-5000
+18
+2.5
+Bombardier Global 7500
+Б-5001
+19
+2.8
+Dassault Falcon 8X
+Б-5002
+16
+2.2
+Cessna Citation Longitude
+Б-5003
+12
+1.8
